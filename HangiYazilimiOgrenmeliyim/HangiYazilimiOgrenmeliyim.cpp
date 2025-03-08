@@ -66,7 +66,7 @@ int main()
 							}
 							else if (is_5 == 2)
 							{
-								cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+								cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 								cin >> is_6;
 								if (is_6 == 1)
 								{
@@ -91,7 +91,7 @@ int main()
 							}
 							else if (is_5 == 3)
 							{
-								cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+								cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 								cin >> is_6;
 								if (is_6 == 1)
 								{
@@ -242,7 +242,7 @@ int main()
 						}
 						else if (is_5 == 2)
 						{
-							cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+							cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 							cin >> is_6;
 							if (is_6 == 1)
 							{
@@ -267,7 +267,7 @@ int main()
 						}
 						else if (is_5 == 3)
 						{
-							cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+							cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 							cin >> is_6;
 							if (is_6 == 1)
 							{
@@ -387,7 +387,7 @@ int main()
 						}
 						else if (is_5 == 2)
 						{
-							cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+							cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 							cin >> is_6;
 							if (is_6 == 1)
 							{
@@ -412,7 +412,7 @@ int main()
 						}
 						else if (is_5 == 3)
 						{
-							cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+							cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 							cin >> is_6;
 							if (is_6 == 1)
 							{
@@ -562,7 +562,7 @@ int main()
 						}
 						else if (is_5 == 2)
 						{
-							cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+							cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 							cin >> is_6;
 							if (is_6 == 1)
 							{
@@ -587,7 +587,7 @@ int main()
 						}
 						else if (is_5 == 3)
 						{
-							cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+							cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 							cin >> is_6;
 							if (is_6 == 1)
 							{
@@ -737,7 +737,7 @@ int main()
 						}
 						else if (is_5 == 2)
 						{
-							cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+							cout << "Hayır'ı seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 							cin >> is_6;
 							if (is_6 == 1)
 							{
@@ -762,7 +762,7 @@ int main()
 						}
 						else if (is_5 == 3)
 						{
-							cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
+							cout << "Emin değilim'i seçtin.\n\tHangi oyuncaklar favoriniz?\n\t\t1. Lego\n\t\t2. Play-Doh\n\t\t3. Eski bir oyuncağım var, ancak hala çok seviyorum!\nLütfen birisini seçin: ";
 							cin >> is_6;
 							if (is_6 == 1)
 							{
